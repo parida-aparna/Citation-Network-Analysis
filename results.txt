@@ -1,0 +1,20 @@
+JMLR RESULTS:
+
+No. of LCC= 17
+No. of SCC= 19147
+No of communities detected : 583
+No. of LCC= 878
+No. of SCC= 878
+Modularity Score: 0.9024664075650314
+No of communities detected : 48
+
+PRL RESULTS:
+
+No. of LCC= 71
+No. of SCC= 51678
+No of communities detected : 1835
+No. of LCC= 2521
+No. of SCC= 2521
+Modularity Score: 0.9544805927354693
+No of communities detected : 54
+

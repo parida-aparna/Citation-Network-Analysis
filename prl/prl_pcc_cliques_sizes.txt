@@ -1,0 +1,1600 @@
+
+PCC-1:
+Size:	2
+Clique:	(1, 2)
+
+PCC-2:
+Size:	5
+Clique:	(10, 14, 25, 35, 55)
+
+PCC-2:
+Size:	5
+Clique:	(10, 14, 25, 35, 51)
+
+PCC-2:
+Size:	5
+Clique:	(13, 42, 48, 50, 54)
+
+PCC-2:
+Size:	5
+Clique:	(13, 42, 46, 48, 54)
+
+PCC-2:
+Size:	5
+Clique:	(10, 14, 25, 35, 38)
+
+PCC-2:
+Size:	5
+Clique:	(10, 14, 25, 35, 37)
+
+PCC-2:
+Size:	5
+Clique:	(10, 14, 25, 26, 35)
+
+PCC-2:
+Size:	5
+Clique:	(10, 14, 17, 25, 35)
+
+PCC-3:
+Size:	5
+Clique:	(1, 14, 27, 34, 43)
+
+PCC-3:
+Size:	5
+Clique:	(1, 14, 21, 27, 43)
+
+PCC-3:
+Size:	5
+Clique:	(1, 7, 14, 27, 43)
+
+PCC-3:
+Size:	5
+Clique:	(1, 4, 14, 27, 43)
+
+PCC-4:
+Size:	1
+Clique:	(0,)
+
+PCC-6:
+Size:	6
+Clique:	(6, 8, 27, 31, 35, 38)
+
+PCC-6:
+Size:	6
+Clique:	(8, 12, 27, 31, 35, 38)
+
+PCC-7:
+Size:	5
+Clique:	(0, 13, 32, 34, 48)
+
+PCC-7:
+Size:	5
+Clique:	(13, 24, 32, 34, 48)
+
+PCC-7:
+Size:	5
+Clique:	(13, 32, 33, 34, 48)
+
+PCC-7:
+Size:	5
+Clique:	(10, 18, 32, 34, 48)
+
+PCC-7:
+Size:	5
+Clique:	(10, 32, 34, 35, 48)
+
+PCC-7:
+Size:	5
+Clique:	(0, 13, 32, 34, 47)
+
+PCC-7:
+Size:	5
+Clique:	(13, 24, 32, 34, 47)
+
+PCC-7:
+Size:	5
+Clique:	(13, 32, 33, 34, 47)
+
+PCC-7:
+Size:	5
+Clique:	(10, 18, 32, 34, 47)
+
+PCC-7:
+Size:	5
+Clique:	(10, 32, 34, 35, 47)
+
+PCC-7:
+Size:	5
+Clique:	(0, 13, 32, 34, 45)
+
+PCC-7:
+Size:	5
+Clique:	(13, 24, 32, 34, 45)
+
+PCC-7:
+Size:	5
+Clique:	(13, 32, 33, 34, 45)
+
+PCC-7:
+Size:	5
+Clique:	(10, 18, 32, 34, 45)
+
+PCC-7:
+Size:	5
+Clique:	(10, 32, 34, 35, 45)
+
+PCC-7:
+Size:	5
+Clique:	(0, 13, 32, 34, 36)
+
+PCC-7:
+Size:	5
+Clique:	(13, 24, 32, 34, 36)
+
+PCC-7:
+Size:	5
+Clique:	(13, 32, 33, 34, 36)
+
+PCC-7:
+Size:	5
+Clique:	(10, 18, 32, 34, 36)
+
+PCC-7:
+Size:	5
+Clique:	(10, 32, 34, 35, 36)
+
+PCC-7:
+Size:	5
+Clique:	(0, 13, 21, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(13, 21, 24, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(13, 21, 32, 33, 34)
+
+PCC-7:
+Size:	5
+Clique:	(10, 18, 21, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(10, 21, 32, 34, 35)
+
+PCC-7:
+Size:	5
+Clique:	(0, 13, 17, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(13, 17, 24, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(13, 17, 32, 33, 34)
+
+PCC-7:
+Size:	5
+Clique:	(10, 17, 18, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(10, 17, 32, 34, 35)
+
+PCC-7:
+Size:	5
+Clique:	(0, 13, 16, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(13, 16, 24, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(13, 16, 32, 33, 34)
+
+PCC-7:
+Size:	5
+Clique:	(10, 16, 18, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(10, 16, 32, 34, 35)
+
+PCC-7:
+Size:	5
+Clique:	(0, 13, 15, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(13, 15, 24, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(13, 15, 32, 33, 34)
+
+PCC-7:
+Size:	5
+Clique:	(10, 15, 18, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(10, 15, 32, 34, 35)
+
+PCC-7:
+Size:	5
+Clique:	(0, 2, 13, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(2, 13, 24, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(2, 13, 32, 33, 34)
+
+PCC-7:
+Size:	5
+Clique:	(2, 10, 18, 32, 34)
+
+PCC-7:
+Size:	5
+Clique:	(2, 10, 32, 34, 35)
+
+PCC-8:
+Size:	1
+Clique:	(3,)
+
+PCC-8:
+Size:	1
+Clique:	(2,)
+
+PCC-8:
+Size:	1
+Clique:	(1,)
+
+PCC-8:
+Size:	1
+Clique:	(0,)
+
+PCC-9:
+Size:	1
+Clique:	(7,)
+
+PCC-9:
+Size:	1
+Clique:	(6,)
+
+PCC-9:
+Size:	1
+Clique:	(5,)
+
+PCC-9:
+Size:	1
+Clique:	(4,)
+
+PCC-9:
+Size:	1
+Clique:	(3,)
+
+PCC-9:
+Size:	1
+Clique:	(2,)
+
+PCC-9:
+Size:	1
+Clique:	(1,)
+
+PCC-9:
+Size:	1
+Clique:	(0,)
+
+PCC-10:
+Size:	3
+Clique:	(0, 2, 19)
+
+PCC-10:
+Size:	3
+Clique:	(1, 2, 19)
+
+PCC-10:
+Size:	3
+Clique:	(2, 12, 19)
+
+PCC-10:
+Size:	3
+Clique:	(0, 2, 16)
+
+PCC-10:
+Size:	3
+Clique:	(1, 2, 16)
+
+PCC-10:
+Size:	3
+Clique:	(2, 12, 16)
+
+PCC-10:
+Size:	3
+Clique:	(0, 2, 15)
+
+PCC-10:
+Size:	3
+Clique:	(1, 2, 15)
+
+PCC-10:
+Size:	3
+Clique:	(2, 12, 15)
+
+PCC-10:
+Size:	3
+Clique:	(0, 2, 14)
+
+PCC-10:
+Size:	3
+Clique:	(1, 2, 14)
+
+PCC-10:
+Size:	3
+Clique:	(2, 12, 14)
+
+PCC-10:
+Size:	3
+Clique:	(0, 2, 8)
+
+PCC-10:
+Size:	3
+Clique:	(1, 2, 8)
+
+PCC-10:
+Size:	3
+Clique:	(2, 8, 12)
+
+PCC-10:
+Size:	3
+Clique:	(0, 2, 6)
+
+PCC-10:
+Size:	3
+Clique:	(1, 2, 6)
+
+PCC-10:
+Size:	3
+Clique:	(2, 6, 12)
+
+PCC-11:
+Size:	4
+Clique:	(1, 2, 4, 5)
+
+PCC-11:
+Size:	4
+Clique:	(1, 2, 3, 4)
+
+PCC-11:
+Size:	4
+Clique:	(0, 1, 2, 4)
+
+PCC-12:
+Size:	7
+Clique:	(0, 12, 32, 56, 57, 60, 65)
+
+PCC-12:
+Size:	7
+Clique:	(0, 12, 32, 49, 56, 60, 65)
+
+PCC-12:
+Size:	7
+Clique:	(0, 12, 32, 48, 56, 60, 65)
+
+PCC-12:
+Size:	7
+Clique:	(0, 12, 32, 43, 56, 60, 65)
+
+PCC-12:
+Size:	7
+Clique:	(0, 12, 32, 37, 56, 60, 65)
+
+PCC-12:
+Size:	7
+Clique:	(0, 10, 12, 32, 56, 60, 65)
+
+PCC-12:
+Size:	7
+Clique:	(0, 1, 12, 32, 56, 60, 65)
+
+PCC-13:
+Size:	7
+Clique:	(2, 5, 12, 13, 14, 19, 24)
+
+PCC-14:
+Size:	3
+Clique:	(5, 6, 22)
+
+PCC-14:
+Size:	3
+Clique:	(6, 18, 22)
+
+PCC-14:
+Size:	3
+Clique:	(6, 22, 23)
+
+PCC-14:
+Size:	3
+Clique:	(5, 6, 21)
+
+PCC-14:
+Size:	3
+Clique:	(6, 18, 21)
+
+PCC-14:
+Size:	3
+Clique:	(6, 21, 23)
+
+PCC-14:
+Size:	3
+Clique:	(5, 6, 9)
+
+PCC-14:
+Size:	3
+Clique:	(6, 9, 18)
+
+PCC-14:
+Size:	3
+Clique:	(6, 9, 23)
+
+PCC-15:
+Size:	3
+Clique:	(2, 12, 13)
+
+PCC-15:
+Size:	3
+Clique:	(12, 13, 18)
+
+PCC-15:
+Size:	3
+Clique:	(12, 13, 19)
+
+PCC-15:
+Size:	3
+Clique:	(11, 15, 17)
+
+PCC-15:
+Size:	3
+Clique:	(2, 8, 12)
+
+PCC-15:
+Size:	3
+Clique:	(8, 12, 18)
+
+PCC-15:
+Size:	3
+Clique:	(8, 12, 19)
+
+PCC-15:
+Size:	3
+Clique:	(6, 19, 20)
+
+PCC-15:
+Size:	3
+Clique:	(4, 12, 17)
+
+PCC-16:
+Size:	6
+Clique:	(0, 10, 14, 16, 21, 28)
+
+PCC-16:
+Size:	6
+Clique:	(10, 14, 16, 20, 21, 28)
+
+PCC-16:
+Size:	6
+Clique:	(0, 10, 12, 14, 21, 28)
+
+PCC-16:
+Size:	6
+Clique:	(10, 12, 14, 20, 21, 28)
+
+PCC-16:
+Size:	6
+Clique:	(0, 8, 10, 14, 21, 28)
+
+PCC-16:
+Size:	6
+Clique:	(8, 10, 14, 20, 21, 28)
+
+PCC-17:
+Size:	5
+Clique:	(18, 22, 40, 55, 58)
+
+PCC-17:
+Size:	5
+Clique:	(18, 22, 30, 55, 58)
+
+PCC-17:
+Size:	5
+Clique:	(11, 18, 22, 55, 58)
+
+PCC-18:
+Size:	8
+Clique:	(2, 5, 10, 15, 27, 32, 37, 42)
+
+PCC-18:
+Size:	8
+Clique:	(2, 5, 10, 15, 16, 27, 32, 37)
+
+PCC-19:
+Size:	5
+Clique:	(1, 11, 19, 26, 32)
+
+PCC-19:
+Size:	5
+Clique:	(1, 8, 11, 19, 32)
+
+PCC-19:
+Size:	5
+Clique:	(1, 4, 11, 19, 32)
+
+PCC-20:
+Size:	4
+Clique:	(5, 30, 34, 42)
+
+PCC-20:
+Size:	4
+Clique:	(5, 24, 30, 34)
+
+PCC-20:
+Size:	4
+Clique:	(5, 21, 30, 34)
+
+PCC-20:
+Size:	4
+Clique:	(11, 19, 22, 25)
+
+PCC-20:
+Size:	4
+Clique:	(11, 19, 22, 40)
+
+PCC-20:
+Size:	4
+Clique:	(0, 19, 22, 25)
+
+PCC-20:
+Size:	4
+Clique:	(0, 19, 22, 40)
+
+PCC-21:
+Size:	4
+Clique:	(13, 16, 17, 70)
+
+PCC-21:
+Size:	4
+Clique:	(17, 18, 37, 69)
+
+PCC-21:
+Size:	4
+Clique:	(17, 31, 37, 69)
+
+PCC-21:
+Size:	4
+Clique:	(17, 18, 58, 69)
+
+PCC-21:
+Size:	4
+Clique:	(17, 31, 58, 69)
+
+PCC-21:
+Size:	4
+Clique:	(17, 18, 37, 64)
+
+PCC-21:
+Size:	4
+Clique:	(17, 31, 37, 64)
+
+PCC-21:
+Size:	4
+Clique:	(17, 18, 58, 64)
+
+PCC-21:
+Size:	4
+Clique:	(17, 31, 58, 64)
+
+PCC-21:
+Size:	4
+Clique:	(13, 16, 17, 47)
+
+PCC-21:
+Size:	4
+Clique:	(17, 18, 34, 37)
+
+PCC-21:
+Size:	4
+Clique:	(17, 31, 34, 37)
+
+PCC-21:
+Size:	4
+Clique:	(17, 18, 34, 58)
+
+PCC-21:
+Size:	4
+Clique:	(17, 31, 34, 58)
+
+PCC-21:
+Size:	4
+Clique:	(13, 16, 17, 29)
+
+PCC-21:
+Size:	4
+Clique:	(13, 16, 17, 25)
+
+PCC-21:
+Size:	4
+Clique:	(17, 18, 21, 37)
+
+PCC-21:
+Size:	4
+Clique:	(17, 21, 31, 37)
+
+PCC-21:
+Size:	4
+Clique:	(17, 18, 21, 58)
+
+PCC-21:
+Size:	4
+Clique:	(17, 21, 31, 58)
+
+PCC-21:
+Size:	4
+Clique:	(13, 14, 16, 17)
+
+PCC-21:
+Size:	4
+Clique:	(12, 13, 16, 17)
+
+PCC-22:
+Size:	3
+Clique:	(19, 42, 62)
+
+PCC-22:
+Size:	3
+Clique:	(32, 42, 62)
+
+PCC-22:
+Size:	3
+Clique:	(0, 42, 51)
+
+PCC-22:
+Size:	3
+Clique:	(5, 42, 51)
+
+PCC-22:
+Size:	3
+Clique:	(16, 42, 51)
+
+PCC-22:
+Size:	3
+Clique:	(19, 42, 43)
+
+PCC-22:
+Size:	3
+Clique:	(32, 42, 43)
+
+PCC-22:
+Size:	3
+Clique:	(0, 41, 42)
+
+PCC-22:
+Size:	3
+Clique:	(5, 41, 42)
+
+PCC-22:
+Size:	3
+Clique:	(16, 41, 42)
+
+PCC-22:
+Size:	3
+Clique:	(0, 34, 42)
+
+PCC-22:
+Size:	3
+Clique:	(5, 34, 42)
+
+PCC-22:
+Size:	3
+Clique:	(16, 34, 42)
+
+PCC-22:
+Size:	3
+Clique:	(0, 26, 42)
+
+PCC-22:
+Size:	3
+Clique:	(5, 26, 42)
+
+PCC-22:
+Size:	3
+Clique:	(16, 26, 42)
+
+PCC-22:
+Size:	3
+Clique:	(0, 24, 42)
+
+PCC-22:
+Size:	3
+Clique:	(5, 24, 42)
+
+PCC-22:
+Size:	3
+Clique:	(16, 24, 42)
+
+PCC-22:
+Size:	3
+Clique:	(8, 19, 42)
+
+PCC-22:
+Size:	3
+Clique:	(8, 32, 42)
+
+PCC-23:
+Size:	3
+Clique:	(8, 14, 15)
+
+PCC-23:
+Size:	3
+Clique:	(8, 11, 15)
+
+PCC-24:
+Size:	6
+Clique:	(4, 12, 19, 21, 24, 25)
+
+PCC-24:
+Size:	6
+Clique:	(4, 12, 19, 23, 24, 25)
+
+PCC-24:
+Size:	6
+Clique:	(4, 12, 18, 21, 24, 25)
+
+PCC-24:
+Size:	6
+Clique:	(4, 12, 18, 23, 24, 25)
+
+PCC-24:
+Size:	6
+Clique:	(4, 11, 12, 21, 24, 25)
+
+PCC-24:
+Size:	6
+Clique:	(4, 11, 12, 23, 24, 25)
+
+PCC-25:
+Size:	2
+Clique:	(10, 22)
+
+PCC-26:
+Size:	1
+Clique:	(27,)
+
+PCC-26:
+Size:	1
+Clique:	(26,)
+
+PCC-26:
+Size:	1
+Clique:	(25,)
+
+PCC-26:
+Size:	1
+Clique:	(24,)
+
+PCC-26:
+Size:	1
+Clique:	(23,)
+
+PCC-26:
+Size:	1
+Clique:	(22,)
+
+PCC-26:
+Size:	1
+Clique:	(21,)
+
+PCC-26:
+Size:	1
+Clique:	(20,)
+
+PCC-26:
+Size:	1
+Clique:	(19,)
+
+PCC-26:
+Size:	1
+Clique:	(18,)
+
+PCC-26:
+Size:	1
+Clique:	(17,)
+
+PCC-26:
+Size:	1
+Clique:	(16,)
+
+PCC-26:
+Size:	1
+Clique:	(15,)
+
+PCC-26:
+Size:	1
+Clique:	(14,)
+
+PCC-26:
+Size:	1
+Clique:	(13,)
+
+PCC-26:
+Size:	1
+Clique:	(12,)
+
+PCC-26:
+Size:	1
+Clique:	(11,)
+
+PCC-26:
+Size:	1
+Clique:	(10,)
+
+PCC-26:
+Size:	1
+Clique:	(9,)
+
+PCC-26:
+Size:	1
+Clique:	(8,)
+
+PCC-26:
+Size:	1
+Clique:	(7,)
+
+PCC-26:
+Size:	1
+Clique:	(6,)
+
+PCC-26:
+Size:	1
+Clique:	(5,)
+
+PCC-26:
+Size:	1
+Clique:	(4,)
+
+PCC-26:
+Size:	1
+Clique:	(3,)
+
+PCC-26:
+Size:	1
+Clique:	(2,)
+
+PCC-26:
+Size:	1
+Clique:	(1,)
+
+PCC-26:
+Size:	1
+Clique:	(0,)
+
+PCC-27:
+Size:	3
+Clique:	(3, 5, 7)
+
+PCC-27:
+Size:	3
+Clique:	(3, 5, 6)
+
+PCC-28:
+Size:	3
+Clique:	(1, 9, 25)
+
+PCC-28:
+Size:	3
+Clique:	(1, 9, 22)
+
+PCC-28:
+Size:	3
+Clique:	(1, 5, 9)
+
+PCC-28:
+Size:	3
+Clique:	(1, 4, 9)
+
+PCC-29:
+Size:	6
+Clique:	(0, 2, 3, 4, 5, 9)
+
+PCC-30:
+Size:	5
+Clique:	(2, 6, 12, 34, 35)
+
+PCC-30:
+Size:	5
+Clique:	(2, 6, 12, 23, 34)
+
+PCC-31:
+Size:	4
+Clique:	(9, 26, 30, 31)
+
+PCC-31:
+Size:	4
+Clique:	(9, 20, 26, 30)
+
+PCC-31:
+Size:	4
+Clique:	(9, 11, 26, 30)
+
+PCC-32:
+Size:	1
+Clique:	(4,)
+
+PCC-32:
+Size:	1
+Clique:	(3,)
+
+PCC-32:
+Size:	1
+Clique:	(2,)
+
+PCC-32:
+Size:	1
+Clique:	(1,)
+
+PCC-32:
+Size:	1
+Clique:	(0,)
+
+PCC-33:
+Size:	3
+Clique:	(5, 11, 14)
+
+PCC-33:
+Size:	3
+Clique:	(5, 6, 11)
+
+PCC-34:
+Size:	3
+Clique:	(3, 6, 9)
+
+PCC-34:
+Size:	3
+Clique:	(5, 6, 9)
+
+PCC-34:
+Size:	3
+Clique:	(6, 9, 10)
+
+PCC-34:
+Size:	3
+Clique:	(3, 4, 9)
+
+PCC-34:
+Size:	3
+Clique:	(4, 5, 9)
+
+PCC-34:
+Size:	3
+Clique:	(4, 9, 10)
+
+PCC-34:
+Size:	3
+Clique:	(2, 3, 9)
+
+PCC-34:
+Size:	3
+Clique:	(2, 5, 9)
+
+PCC-34:
+Size:	3
+Clique:	(2, 9, 10)
+
+PCC-34:
+Size:	3
+Clique:	(1, 3, 9)
+
+PCC-34:
+Size:	3
+Clique:	(1, 5, 9)
+
+PCC-34:
+Size:	3
+Clique:	(1, 9, 10)
+
+PCC-35:
+Size:	1
+Clique:	(13,)
+
+PCC-35:
+Size:	1
+Clique:	(12,)
+
+PCC-35:
+Size:	1
+Clique:	(11,)
+
+PCC-35:
+Size:	1
+Clique:	(10,)
+
+PCC-35:
+Size:	1
+Clique:	(9,)
+
+PCC-35:
+Size:	1
+Clique:	(8,)
+
+PCC-35:
+Size:	1
+Clique:	(7,)
+
+PCC-35:
+Size:	1
+Clique:	(6,)
+
+PCC-35:
+Size:	1
+Clique:	(5,)
+
+PCC-35:
+Size:	1
+Clique:	(4,)
+
+PCC-35:
+Size:	1
+Clique:	(3,)
+
+PCC-35:
+Size:	1
+Clique:	(2,)
+
+PCC-35:
+Size:	1
+Clique:	(1,)
+
+PCC-35:
+Size:	1
+Clique:	(0,)
+
+PCC-36:
+Size:	1
+Clique:	(14,)
+
+PCC-36:
+Size:	1
+Clique:	(13,)
+
+PCC-36:
+Size:	1
+Clique:	(12,)
+
+PCC-36:
+Size:	1
+Clique:	(11,)
+
+PCC-36:
+Size:	1
+Clique:	(10,)
+
+PCC-36:
+Size:	1
+Clique:	(9,)
+
+PCC-36:
+Size:	1
+Clique:	(8,)
+
+PCC-36:
+Size:	1
+Clique:	(7,)
+
+PCC-36:
+Size:	1
+Clique:	(6,)
+
+PCC-36:
+Size:	1
+Clique:	(5,)
+
+PCC-36:
+Size:	1
+Clique:	(4,)
+
+PCC-36:
+Size:	1
+Clique:	(3,)
+
+PCC-36:
+Size:	1
+Clique:	(2,)
+
+PCC-36:
+Size:	1
+Clique:	(1,)
+
+PCC-36:
+Size:	1
+Clique:	(0,)
+
+PCC-37:
+Size:	1
+Clique:	(7,)
+
+PCC-37:
+Size:	1
+Clique:	(6,)
+
+PCC-37:
+Size:	1
+Clique:	(5,)
+
+PCC-37:
+Size:	1
+Clique:	(4,)
+
+PCC-37:
+Size:	1
+Clique:	(3,)
+
+PCC-37:
+Size:	1
+Clique:	(2,)
+
+PCC-37:
+Size:	1
+Clique:	(1,)
+
+PCC-37:
+Size:	1
+Clique:	(0,)
+
+PCC-38:
+Size:	1
+Clique:	(2,)
+
+PCC-38:
+Size:	1
+Clique:	(1,)
+
+PCC-38:
+Size:	1
+Clique:	(0,)
+
+PCC-39:
+Size:	4
+Clique:	(0, 2, 5, 6)
+
+PCC-40:
+Size:	3
+Clique:	(9, 11, 19)
+
+PCC-40:
+Size:	3
+Clique:	(9, 11, 18)
+
+PCC-40:
+Size:	3
+Clique:	(8, 9, 11)
+
+PCC-41:
+Size:	1
+Clique:	(18,)
+
+PCC-41:
+Size:	1
+Clique:	(17,)
+
+PCC-41:
+Size:	1
+Clique:	(16,)
+
+PCC-41:
+Size:	1
+Clique:	(15,)
+
+PCC-41:
+Size:	1
+Clique:	(14,)
+
+PCC-41:
+Size:	1
+Clique:	(13,)
+
+PCC-41:
+Size:	1
+Clique:	(12,)
+
+PCC-41:
+Size:	1
+Clique:	(11,)
+
+PCC-41:
+Size:	1
+Clique:	(10,)
+
+PCC-41:
+Size:	1
+Clique:	(9,)
+
+PCC-41:
+Size:	1
+Clique:	(8,)
+
+PCC-41:
+Size:	1
+Clique:	(7,)
+
+PCC-41:
+Size:	1
+Clique:	(6,)
+
+PCC-41:
+Size:	1
+Clique:	(5,)
+
+PCC-41:
+Size:	1
+Clique:	(4,)
+
+PCC-41:
+Size:	1
+Clique:	(3,)
+
+PCC-41:
+Size:	1
+Clique:	(2,)
+
+PCC-41:
+Size:	1
+Clique:	(1,)
+
+PCC-41:
+Size:	1
+Clique:	(0,)
+
+PCC-42:
+Size:	3
+Clique:	(2, 3, 7)
+
+PCC-42:
+Size:	3
+Clique:	(2, 7, 8)
+
+PCC-42:
+Size:	3
+Clique:	(2, 3, 5)
+
+PCC-42:
+Size:	3
+Clique:	(2, 5, 8)
+
+PCC-42:
+Size:	3
+Clique:	(0, 2, 3)
+
+PCC-42:
+Size:	3
+Clique:	(0, 2, 8)
+
+PCC-43:
+Size:	3
+Clique:	(2, 8, 9)
+
+PCC-43:
+Size:	3
+Clique:	(1, 2, 9)
+
+PCC-44:
+Size:	3
+Clique:	(3, 4, 5)
+
+PCC-44:
+Size:	3
+Clique:	(2, 3, 5)
+
+PCC-45:
+Size:	6
+Clique:	(1, 7, 8, 18, 19, 20)
+
+PCC-45:
+Size:	6
+Clique:	(1, 6, 8, 18, 19, 20)
+
+PCC-46:
+Size:	1
+Clique:	(4,)
+
+PCC-46:
+Size:	1
+Clique:	(3,)
+
+PCC-46:
+Size:	1
+Clique:	(2,)
+
+PCC-46:
+Size:	1
+Clique:	(1,)
+
+PCC-46:
+Size:	1
+Clique:	(0,)
+
+PCC-47:
+Size:	5
+Clique:	(0, 1, 5, 6, 7)
+
+PCC-47:
+Size:	5
+Clique:	(0, 1, 4, 5, 6)
+
+PCC-47:
+Size:	5
+Clique:	(0, 1, 2, 5, 6)
+
+PCC-48:
+Size:	1
+Clique:	(9,)
+
+PCC-48:
+Size:	1
+Clique:	(8,)
+
+PCC-48:
+Size:	1
+Clique:	(7,)
+
+PCC-48:
+Size:	1
+Clique:	(6,)
+
+PCC-48:
+Size:	1
+Clique:	(5,)
+
+PCC-48:
+Size:	1
+Clique:	(4,)
+
+PCC-48:
+Size:	1
+Clique:	(3,)
+
+PCC-48:
+Size:	1
+Clique:	(2,)
+
+PCC-48:
+Size:	1
+Clique:	(1,)
+
+PCC-48:
+Size:	1
+Clique:	(0,)
+
+PCC-49:
+Size:	1
+Clique:	(11,)
+
+PCC-49:
+Size:	1
+Clique:	(10,)
+
+PCC-49:
+Size:	1
+Clique:	(9,)
+
+PCC-49:
+Size:	1
+Clique:	(8,)
+
+PCC-49:
+Size:	1
+Clique:	(7,)
+
+PCC-49:
+Size:	1
+Clique:	(6,)
+
+PCC-49:
+Size:	1
+Clique:	(5,)
+
+PCC-49:
+Size:	1
+Clique:	(4,)
+
+PCC-49:
+Size:	1
+Clique:	(3,)
+
+PCC-49:
+Size:	1
+Clique:	(2,)
+
+PCC-49:
+Size:	1
+Clique:	(1,)
+
+PCC-49:
+Size:	1
+Clique:	(0,)
+
+PCC-50:
+Size:	1
+Clique:	(3,)
+
+PCC-50:
+Size:	1
+Clique:	(2,)
+
+PCC-50:
+Size:	1
+Clique:	(1,)
+
+PCC-50:
+Size:	1
+Clique:	(0,)
+
+PCC-51:
+Size:	2
+Clique:	(1, 2)
+
+PCC-51:
+Size:	2
+Clique:	(0, 2)
+
+PCC-52:
+Size:	4
+Clique:	(0, 3, 8, 10)
+
+PCC-52:
+Size:	4
+Clique:	(1, 3, 8, 10)
+
+PCC-52:
+Size:	4
+Clique:	(3, 4, 8, 10)
+
+PCC-52:
+Size:	4
+Clique:	(3, 6, 8, 10)
+
+PCC-52:
+Size:	4
+Clique:	(0, 3, 8, 9)
+
+PCC-52:
+Size:	4
+Clique:	(1, 3, 8, 9)
+
+PCC-52:
+Size:	4
+Clique:	(3, 4, 8, 9)
+
+PCC-52:
+Size:	4
+Clique:	(3, 6, 8, 9)
+
+PCC-52:
+Size:	4
+Clique:	(0, 3, 7, 8)
+
+PCC-52:
+Size:	4
+Clique:	(1, 3, 7, 8)
+
+PCC-52:
+Size:	4
+Clique:	(3, 4, 7, 8)
+
+PCC-52:
+Size:	4
+Clique:	(3, 6, 7, 8)
+
+PCC-52:
+Size:	4
+Clique:	(0, 3, 5, 8)
+
+PCC-52:
+Size:	4
+Clique:	(1, 3, 5, 8)
+
+PCC-52:
+Size:	4
+Clique:	(3, 4, 5, 8)
+
+PCC-52:
+Size:	4
+Clique:	(3, 5, 6, 8)
+
+PCC-52:
+Size:	4
+Clique:	(0, 2, 3, 8)
+
+PCC-52:
+Size:	4
+Clique:	(1, 2, 3, 8)
+
+PCC-52:
+Size:	4
+Clique:	(2, 3, 4, 8)
+
+PCC-52:
+Size:	4
+Clique:	(2, 3, 6, 8)
+
+PCC-53:
+Size:	4
+Clique:	(3, 10, 12, 16)
+
+PCC-53:
+Size:	4
+Clique:	(3, 10, 12, 14)
+
+PCC-53:
+Size:	4
+Clique:	(3, 10, 12, 13)
+
+PCC-53:
+Size:	4
+Clique:	(3, 7, 10, 12)
+
+PCC-53:
+Size:	4
+Clique:	(2, 3, 10, 12)
+
+PCC-54:
+Size:	1
+Clique:	(11,)
+
+PCC-54:
+Size:	1
+Clique:	(10,)
+
+PCC-54:
+Size:	1
+Clique:	(9,)
+
+PCC-54:
+Size:	1
+Clique:	(8,)
+
+PCC-54:
+Size:	1
+Clique:	(7,)
+
+PCC-54:
+Size:	1
+Clique:	(6,)
+
+PCC-54:
+Size:	1
+Clique:	(5,)
+
+PCC-54:
+Size:	1
+Clique:	(4,)
+
+PCC-54:
+Size:	1
+Clique:	(3,)
+
+PCC-54:
+Size:	1
+Clique:	(2,)
+
+PCC-54:
+Size:	1
+Clique:	(1,)
+
+PCC-54:
+Size:	1
+Clique:	(0,)
